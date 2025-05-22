@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247040593587",
+    "project_id": "location-156a2",
+    "storage_bucket": "location-156a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247040593587:android:90314c158d939853826ac6",
+        "android_client_info": {
+          "package_name": "uz.flutterblog.anzirat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAezAitF3Gfy-2Nbp3SQxwMk344JEHNbG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
